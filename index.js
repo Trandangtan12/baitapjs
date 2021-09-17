@@ -37,5 +37,4 @@ function validate() {
     }
     alert("Đăng ký thành công")
     return true;
-
 }
